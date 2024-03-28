@@ -1,0 +1,131 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 63 150 30 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ajitapida #1" = 10
+	"Anangapida #1" = 10
+	"Anu #0" = -1
+	"Avantivarma #1" = 10
+	"Bag #0" = 0
+	"Chandaladevi #0" = -1
+	"Chandrapida #1" = 10
+	"Cippatajayapida #1" = 10
+	"Dexuan #1" = 10
+	"Durgasimha #0" = 0
+	"Durlabhavardhana #2" = 10
+	"Durlabhvardhana #1" = 10
+	"Gangaraja #0" = 0
+	"Gayathri #0" = -1
+	"Hariraja #0" = 0
+	"Hkyac #0" = -1
+	"Hongwu #1" = 10
+	"Jayapida #1" = 10
+	"Kakanvati #0" = -1
+	"Krishan #2" = 10
+	"Kuvalayapida #1" = 10
+	"Lalitadiyta-Muktapida #1" = 10
+	"Lalitapida #1" = 10
+	"Mallikarjuna #0" = 0
+	"Muktapida #2" = 10
+	"Mulakhung #0" = 0
+	"Paramanuka #0" = 0
+	"Prabhavati #0" = -1
+	"Prithvyapida #1" = 10
+	"Pulai #0" = -1
+	"Purushottam #1" = 10
+	"Rachamalla #0" = 0
+	"Ramabai #0" = -1
+	"Ramaraya #0" = 0
+	"Samgramapida #1" = 10
+	"Samkaravarman #1" = 10
+	"Satish #1" = 10
+	"Shantaladevi #0" = -1
+	"Sovideva #0" = 0
+	"Tarapida #1" = 10
+	"Tehpoe #0" = 0
+	"Tricham #0" = -1
+	"Utpalapida #1" = 10
+	"Vajraditya #1" = 10
+	"Xiuying #1" = -1
+}
+leader_names = {
+	"Afridi"
+	"Bahadur"
+	"Bakhsh"
+	"Bhangalia"
+	"Bhatta"
+	"Chandral"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gami"
+	"Hamadani"
+	"Jamwal"
+	"Jivan"
+	"Kashmiri"
+	"Katoch"
+	"Kisthwaria"
+	"Kralawari"
+	"Lal"
+	"Makhdum"
+	"Malik"
+	"Mehsud"
+	"Mir"
+	"Naga"
+	"Pahore"
+	"Pakhral"
+	"Parmanand"
+	"Pundir"
+	"Rai"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+}
+ship_names = {
+	"Alia"
+	"Alisha"
+	"Aziza"
+	"Beas"
+	"Chenab"
+	"Fatimah"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Khan"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Niloufa"
+	"Ravi"
+	"Sagar"
+	"Sutlej"
+	"Yasmine"
+	"Zahira"
+}

@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 227 118 23 }
+monarch_names = {
+	"Amita #0" = -1
+	"Bamari #1" = 10
+	"Bintou #0" = -1
+	"Cissi #1" = 10
+	"Diawara #1" = 10
+	"Friedrica #0" = -1
+	"Fuyuan #0" = 0
+	"Gorpue #0" = -1
+	"Maozhen #0" = 0
+	"Namandjé #0" = -1
+	"Toimu #0" = 0
+	"Tutkas #0" = 0
+}

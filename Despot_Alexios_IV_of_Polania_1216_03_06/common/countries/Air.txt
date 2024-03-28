@@ -1,0 +1,132 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 30 31 162 }
+revolutionary_colors = { 13 10 6 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Abubakari #0" = 0
+	"Airimi #1" = 10
+	"Ayoma #0" = 0
+	"Bakhita #0" = -1
+	"Baram #0" = 0
+	"Bukkus #1" = 10
+	"Gazî #2" = 10
+	"Ghana #1" = 10
+	"Halima #0" = -1
+	"Kanemi #0" = 0
+	"Mustafa #0" = 0
+	"Nigale #3" = 10
+	"Oluremi #0" = -1
+	"Sulayman #0" = 0
+	"Yahya #1" = 10
+	"Yaqub #1" = 10
+}
+leader_names = {
+	"Ait Loaien"
+	"Dag Rali"
+	"Ibatanaten"
+	"Idnan"
+	"Ifergoumessen"
+	"Igdalen"
+	"Ighatafan"
+	"Ikazkazan"
+	"Ikhekheren"
+	"Iregenaten"
+	"Iriyaken"
+	"Irreulen"
+	"Kel Afella"
+	"Kel Essouk"
+	"Kel Fadey"
+	"Kel Ferwan"
+	"Kel Gharous"
+	"Kel Nan"
+	"Kel Ouzzeyn"
+	"Kel Rela"
+	"Kel Silet"
+	"Kel Tadele"
+	"Kel Taghlit"
+	"Kel Tamat"
+	"Lisawan"
+	"Taghat Mellet"
+	"Tahabanaten"
+	"Taituq"
+	"Tellemidez"
+	"Tgéhé Millet"
+	"Tiggirmat"
+}
+ship_names = {
+	"Abaikor"
+	"Abuk Eneden"
+	"Adhou"
+	"Adrar"
+	"Agzir"
+	"Aheluf"
+	"Ahlahal"
+	"Ahulil"
+	"Akhoudi"
+	"Amanar"
+	"Amayas"
+	"Amenis"
+	"Amor"
+	"Amschisch"
+	"Aouak'k'as"
+	"Aqjun"
+	"Araleg"
+	"Arer"
+	"Aura"
+	"Averckan"
+	"Awragh"
+	"Azegaw"
+	"Azeggagh"
+	"Edi n Amanar"
+	"Egagg"
+	"Ekahi"
+	"Elkessan"
+	"Elmusi"
+	"Etran"
+	"Eys"
+	"Harmattan"
+	"Illascchevhan"
+	"Mehellau"
+	"Mula-Mula"
+	"Nchar-n-icheren"
+	"Schet-ehad"
+	"Tafuk"
+	"Taganzé"
+	"Taggait"
+	"Tahenkat"
+	"Takhourhit"
+	"Takouba"
+	"Talamt"
+	"Tallit"
+	"Tasilé"
+	"Tatrit n tufat"
+	"Telek"
+	"Teschek-ulli"
+	"Tezelader"
+	"addhar"
+	"Élou"
+	"Ésou"
+}

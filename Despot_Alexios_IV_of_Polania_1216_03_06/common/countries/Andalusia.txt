@@ -1,0 +1,114 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 240 230 155 }
+revolutionary_colors = { 1 0 10 }
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	maritime_ideas
+	exploration_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abd al-Rahman #2" = 10
+	"Adilia #0" = -1
+	"Ahmad #0" = 0
+	"Aliyah #0" = -1
+	"Bakr #0" = 0
+	"Balj #0" = 0
+	"Basimah #0" = -1
+	"Butayna #0" = -1
+	"Gaya #0" = 0
+	"Gwejda #0" = -1
+	"Hisham #1" = 10
+	"Hussayn #0" = 0
+	"It'ij #0" = 0
+	"Jattab #0" = 0
+	"Jayr #0" = 0
+	"Kera #0" = -1
+	"Lazaros #0" = 0
+	"Lyaqut #0" = -1
+	"Mahabba #0" = -1
+	"Mahjuna #0" = -1
+	"Mansur #0" = 0
+	"Muhammad #1" = 10
+	"Mukhtar #1" = 10
+	"Muyahid #0" = 0
+	"Najat #0" = -1
+	"Nasraddin #1" = 10
+	"Razin #1" = 10
+	"Samra #0" = -1
+	"Sifaks #0" = 0
+	"Suleyman #1" = 10
+	"Söbuk #0" = 0
+	"Ya'far #0" = 0
+	"Yusr #0" = 0
+	"al-Hakam #1" = 10
+}
+leader_names = {
+	"Ibn Abbad"
+	"Ibn Abd Allah"
+	"Ibn Abd al-Rahman"
+	"Ibn Abi Hafs"
+	"Ibn Ali"
+	"Ibn Hakan"
+	"Ibn Hammud"
+	"Ibn Hisam"
+	"Ibn Husayn"
+	"Ibn Idris"
+	"Ibn Ishaq"
+	"Ibn Isma'il"
+	"Ibn Marwan"
+	"Ibn Muhammad"
+	"Ibn Nasr"
+	"Ibn Qasim"
+	"Ibn Sa'd"
+	"Ibn Sulayman"
+	"Ibn Umar"
+	"Ibn Ummay"
+	"Ibn Utman"
+	"Ibn Ya'far"
+	"Ibn Yahyà"
+	"Ibn Yusuf"
+	"Ibn al-Azafi"
+}
+ship_names = {
+	"Ismail I"
+	"Ismail II"
+	"Muhammed III"
+	"Muhammed IV"
+	"Muhammed IX"
+	"Muhammed V"
+	"Muhammed VI"
+	"Muhammed VII"
+	"Muhammed VIII"
+	"Muhammed X"
+	"Muhammed al-Faqih"
+	"Muhammed ibn Nasr"
+	"Nasr"
+	"Yusuf I"
+	"Yusuf II"
+	"Yusuf III"
+	"Yusuf IV"
+	"Yusuf V"
+}
+army_names = {
+	"Jaish Al $PROVINCE$"
+}
+fleet_names = {
+	"Alboran Sea Squadron"
+	"Balaeric Sea Squadron"
+	"Jabal Tariq Squadron"
+}

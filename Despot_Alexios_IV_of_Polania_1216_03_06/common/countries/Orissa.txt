@@ -1,0 +1,117 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 210 106 47 }
+revolutionary_colors = { 5 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abdulraham #0" = 0
+	"Akkadevi #0" = -1
+	"Anekonda #2" = 10
+	"Augusta #0" = -1
+	"Avinita #0" = 0
+	"Bhuvikrama #1" = 10
+	"Bijjabbe #0" = -1
+	"Chandaladevi #0" = -1
+	"Chinnambike #0" = -1
+	"Dandi #0" = -1
+	"Devendranarayan #1" = 10
+	"Ereganga #0" = 0
+	"Ereyanga #0" = 0
+	"Gajankusha #2" = 10
+	"Gangambika #0" = -1
+	"Gopinatha #0" = 0
+	"Harivarman #0" = 0
+	"Hoysaladevi #0" = -1
+	"Indranatha #0" = 0
+	"Kanchanastambha #0" = 0
+	"Karel #0" = 0
+	"Kundakadevi #0" = -1
+	"Lakshmikaradevi #0" = -1
+	"Mahindranarayan #1" = 10
+	"Mailaladevi #0" = -1
+	"Marulaganga #0" = 0
+	"Nahusa #0" = 0
+	"Permanadi #0" = 0
+	"Pertal #0" = -1
+	"Prannath #1" = 10
+	"Pravaraja #0" = 0
+	"Ruhan #0" = 0
+	"Sadashiva #0" = 0
+	"Sailobhava #0" = 0
+	"Sauta #0" = -1
+	"Sovideva #0" = 0
+	"Tailapa #0" = 0
+	"Tejavarsha #0" = 0
+	"Thirumalambike #0" = -1
+	"Vajrahasta #0" = 0
+	"Vakula #0" = -1
+	"Vidhyadhara #0" = 0
+	"Vishnugopa #1" = 10
+	"Yajnavati #0" = -1
+}
+leader_names = {
+	"Bhowarbar"
+	"Bidyadhar"
+	"Dassa"
+	"Deo"
+	"Deva"
+	"Gajapati"
+	"Kalinga"
+	"Nayudu"
+	"Patra"
+	"Poosapati"
+	"Rai"
+	"Ratha"
+	"Reddy"
+	"Roy"
+	"Santra"
+	"Singhar"
+	"Sinha"
+	"Uria"
+	"Vansa"
+	"Vasireddy"
+	"Velama"
+}
+ship_names = {
+	"Baitarani"
+	"Balasore"
+	"Balugaon"
+	"Behrampur"
+	"Bhubeneswar"
+	"Brahmani"
+	"Chandipur"
+	"Chilka"
+	"Cuttack"
+	"Durga"
+	"Gopalpur"
+	"Jagannath"
+	"Juggernaut"
+	"Kalijai"
+	"Konark"
+	"Lakshmi"
+	"Mahanadi"
+	"Nalabana"
+	"Paradeep"
+	"Parvati"
+	"Puri"
+	"Radha"
+	"Sarasvati"
+	"Satapada"
+}

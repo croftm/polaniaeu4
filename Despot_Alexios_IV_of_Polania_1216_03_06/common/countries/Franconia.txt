@@ -1,0 +1,131 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 89 128 68 }
+revolutionary_colors = { 5 13 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelaida #0" = -1
+	"Ado #1" = 10
+	"Adriano #0" = 0
+	"Anna #1" = -1
+	"Ardizzone #1" = 10
+	"Azzone #2" = 10
+	"Bahiroji #0" = 0
+	"Bérard #1" = 10
+	"Constance #0" = -1
+	"Dionysia #0" = -1
+	"Ehrenfried #0" = 0
+	"Emrico #0" = 0
+	"Emund #0" = 0
+	"Ernst #1" = 10
+	"Friedrich #1" = 10
+	"Giorgio #0" = 0
+	"Gozbert #1" = 10
+	"Guido #0" = 0
+	"Hartwig #1" = 10
+	"Heilwiva #1" = -1
+	"Hetan #2" = 10
+	"Hruodis #1" = 10
+	"Judith #1" = -1
+	"Karlmann #1" = 10
+	"Ludwig #1" = 10
+	"Martin #1" = 10
+	"Migali #0" = 0
+	"Thuringus #1" = 10
+	"Udo #1" = 10
+	"Ugolino #1" = 10
+	"Werner #2" = 10
+	"Willem #1" = 10
+}
+leader_names = {
+	"Blochberger"
+	"Bär"
+	"Degen"
+	"Dick"
+	"Dietsch"
+	"Däumler"
+	"Egelkraut"
+	"Ernst"
+	"Fichtelmann"
+	"Fischer"
+	"Franck"
+	"Färber"
+	"Födisch"
+	"Grimm"
+	"Gäbelein"
+	"Hager"
+	"Hofmann"
+	"Höhrer"
+	"Knörnschild"
+	"Langheinrich"
+	"Maier"
+	"Narr"
+	"Ott"
+	"Ranck"
+	"Rank"
+	"Rudl"
+	"Sack"
+	"Schmidt"
+	"Schwager"
+	"Seel"
+	"Sell"
+	"Simon"
+	"Söll"
+	"Teichmann"
+	"Weinrich"
+	"Wirth"
+}
+ship_names = {
+	"Albrecht Achilles"
+	"Bayreuth"
+	"Bergtheim"
+	"Biebelried"
+	"Eigelstadt"
+	"Friedrich V"
+	"Friedrich von Ansbach"
+	"Georg"
+	"Georg Friedrich"
+	"Gramschatz"
+	"Hohenzollern"
+	"Höchberg"
+	"Julius Echter"
+	"Kietzingen"
+	"Kulmbach"
+	"Main"
+	"Marienberg"
+	"Ochsenfurth"
+	"Onoldsbach"
+	"Rezat"
+	"Rimpar"
+	"Uettingen"
+	"Wern"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erste Fränkische Armee"
+}

@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 137 69 13 }
+monarch_names = {
+	"Ambrus #1" = 10
+	"Barbara #1" = -1
+	"Bayça #0" = 0
+	"Béla #1" = 10
+	"Giazis #0" = 0
+	"Gunes #1" = -1
+	"Iakov #0" = 0
+	"Ipaos #1" = 10
+	"Jenö #1" = 10
+	"Kaydum #0" = 0
+	"Korkutan #1" = 10
+	"Koz'ma #0" = 0
+	"Lajos #2" = 10
+	"Mihály #1" = 10
+	"Orbán #2" = 10
+	"Temir #1" = 10
+	"Tibor #1" = 10
+	"Tétény #1" = 10
+	"Töhötöm #1" = 10
+	"Vencel #1" = 10
+	"Yavdi #1" = 10
+	"Álmos #1" = 10
+}

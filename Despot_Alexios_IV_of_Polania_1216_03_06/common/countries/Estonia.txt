@@ -1,0 +1,78 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 248 125 125 }
+revolutionary_colors = { 15 1 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Alur #1" = 10
+	"Arp #1" = 10
+	"Eeri #0" = 0
+	"Elmar #2" = 10
+	"Endre #0" = 0
+	"Heatõiv #0" = 0
+	"Kiire #0" = -1
+	"Leammá #0" = 0
+	"Leek #0" = -1
+	"Olev #0" = 0
+	"Onni #1" = 10
+	"Tasulemb #1" = 10
+	"Toivo #1" = 10
+	"Tõnn #1" = 10
+	"Vlastislav #0" = 0
+	"Vootele #0" = 0
+}
+leader_names = {
+	"Aminoff"
+	"Armfelt"
+	"Bielke"
+	"Bonde"
+	"Carpelan"
+	"Fleming"
+	"Furuhjelm"
+	"Horn"
+	"Mannerheim"
+	"Paijkull"
+	"Rehbinder"
+	"Schulman"
+	"Soop"
+	"Tott"
+	"Wrede"
+}
+ship_names = {
+	"Arensburg"
+	"Hapsal"
+	"Maria"
+	"Narva"
+	"Pernau"
+	"Reval"
+	"Toompea"
+	"Weissenstein"
+	"Wesenberg"
+	"Ösel"
+}

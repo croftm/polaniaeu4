@@ -1,0 +1,88 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 93 180 76 }
+revolutionary_colors = { 8 0 6 }
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Abotani #0" = 0
+	"Bhaskarvarman #0" = 0
+	"Bhutivarman #0" = 0
+	"Brahmapala #1" = 10
+	"Choeje #0" = 0
+	"Choenzo #0" = 0
+	"Chogley #0" = 0
+	"Choje #0" = 0
+	"Ganapativarman #0" = 0
+	"Gyatso #0" = 0
+	"Indrapala #1" = 10
+	"Jayamala #1" = 10
+	"Jayapala #1" = 10
+	"Khamsum #1" = 10
+	"Kushanakanak #0" = 0
+	"Lasya #0" = -1
+	"Mahendravarman #1" = 10
+	"Mindruk #0" = -1
+	"Nayanadevi #0" = -1
+	"Omer #0" = 0
+	"Pelri #0" = 0
+	"Pema #0" = -1
+	"Pongza #0" = -1
+	"Selbar #0" = 0
+	"Sthitavarman #0" = 0
+	"Susthitavarman #1" = 10
+	"Suvrata #0" = -1
+	"Syamadevi #0" = -1
+	"Timgyadeva #1" = 10
+	"Trinyen #0" = -1
+	"Tsangyang #0" = 0
+	"Tyagasimha #1" = 10
+	"Vijnanavati #0" = -1
+	"Wangzom #1" = 10
+	"Yajiyavati #0" = -1
+	"Yajnavati #0" = -1
+}
+leader_names = {
+	"Chomphel"
+	"Gyaltshen"
+	"Gyamtsho"
+	"Lhopi"
+	"Peljor"
+	"Phuntsho"
+	"Rabgye"
+	"Tshering"
+	"Wangchuk"
+	"Wangpo"
+}
+ship_names = {
+	"Chhu"
+	"Dng Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Pho Chu"
+	"Punaka"
+	"Sangkosh"
+	"Thimbu"
+	"Tongsa Chu"
+	"Towang Chu"
+}

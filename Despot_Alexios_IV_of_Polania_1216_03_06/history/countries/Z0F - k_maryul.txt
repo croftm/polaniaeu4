@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+technology_group = indian
+religion = shiite
+primary_culture = dynamic-kashmiri-zhangzhung-culture-num1
+capital = 2074
+religious_school = zaidi_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Kia"
+		dynasty = "Tahirid-Demchok"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1382.2.9
+		religion = shiite
+		culture = dynamic-kashmiri-zhangzhung-culture-num1
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Nyandak"
+		dynasty = "Tsenpo"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z0F
+		birth_date = 1382.3.14
+		death_date = 1442.3.14
+		female = yes
+		religion = shiite
+		culture = dynamic-saka-zhangzhung-culture-num1
+	}
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Tenzing"
+		monarch_name = "Tenzing"
+		dynasty = "Tahirid-Demchok"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1423.9.11
+		death_date = 1488.9.11
+		claim = 89
+		religion = shiite
+		culture = dynamic-kashmiri-zhangzhung-culture-num1
+	}
+	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 85
+	add_treasury = 54
+}

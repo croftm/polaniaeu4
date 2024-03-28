@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = sub_saharan
+religion = converted_dynamic_faith_110
+primary_culture = fon
+capital = 1143
+add_accepted_culture = dynamic-mali-bozo-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Ndieumbeutt"
+		dynasty = "Busuma"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1401.4.2
+		female = yes
+		religion = converted_dynamic_faith_110
+		culture = fon
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Masape"
+		dynasty = "Busuma"
+		adm = 4
+		dip = 1
+		mil = 4
+		country_of_origin = Z08
+		birth_date = 1421.1.29
+		death_date = 1481.1.29
+		religion = converted_dynamic_faith_110
+		culture = dynamic-aka-culture-num1
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Yalla"
+		monarch_name = "Yalla"
+		dynasty = "Busuma"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1421.9.10
+		death_date = 1486.9.10
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_110
+		culture = fon
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 89
+	add_treasury = 51
+}

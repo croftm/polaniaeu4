@@ -1,0 +1,44 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = sub_saharan
+religion = ibadi
+primary_culture = kanuri
+capital = 2799
+fixed_capital = 2799
+add_accepted_culture = nubian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Fatima"
+		dynasty = "Kunkuna"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1416.10.8
+		female = yes
+		religion = ibadi
+		culture = kanuri
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Zannah"
+		monarch_name = "Zannah"
+		dynasty = "Kunkuna"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1427.8.14
+		death_date = 1492.8.14
+		claim = 89
+		religion = ibadi
+		culture = kanuri
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11= {
+	add_prestige = 56
+	add_treasury = 44
+}

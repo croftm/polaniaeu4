@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = nomad_group
+religion = shiite
+primary_culture = bashkir
+capital = 1966
+religious_school = zaidi_school
+add_accepted_culture = nogaybak
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Anzi"
+		dynasty = "Karabutakid"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1391.2.27
+		religion = shiite
+		culture = bashkir
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Çeçeppi"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Z24
+		birth_date = 1397.1.18
+		death_date = 1457.1.18
+		female = yes
+		religion = shiite
+		culture = bashkir
+	}
+	add_queen_personality = fertile_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Kuber"
+		monarch_name = "Kuber"
+		dynasty = "Karabutakid"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1441.12.29
+		death_date = 1506.12.29
+		claim = 89
+		religion = shiite
+		culture = bashkir
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 63
+	add_treasury = 47
+}

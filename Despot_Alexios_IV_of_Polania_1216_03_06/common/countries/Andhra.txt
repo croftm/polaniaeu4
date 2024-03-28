@@ -1,0 +1,117 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 47 132 124 }
+revolutionary_colors = { 10 8 10 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Achyutadeva #0" = 0
+	"Ahavamalla #0" = 0
+	"Akkadevi #0" = -1
+	"Amoghavarsha #2" = 10
+	"Anekonda #0" = 0
+	"Bhavanaga #0" = -1
+	"Bijjabbe #0" = -1
+	"Butuga #0" = 0
+	"C'anglong #1" = 10
+	"Chandaladevi #1" = -1
+	"Chandrabbalabbe #0" = -1
+	"Chellava #0" = -1
+	"Chinnambike #0" = -1
+	"Dandi #0" = -1
+	"Devavati #0" = -1
+	"Dharmamahadevi #0" = -1
+	"Gangaraja #0" = 0
+	"Hakka #0" = 0
+	"Hnin #0" = -1
+	"Hoysaladevi #0" = -1
+	"Jhanjha #0" = 0
+	"Kamadevi #0" = -1
+	"Kannama #0" = 0
+	"Kirtivarman #0" = 0
+	"Krishna #1" = 10
+	"Lakshmi #0" = -1
+	"Mahadevi #0" = -1
+	"Mailaladevi #0" = -1
+	"Nadi #0" = -1
+	"Narasimha #0" = 0
+	"Narasingha #0" = 0
+	"Neetimarga #0" = 0
+	"Nilar #0" = -1
+	"Nripakama #0" = 0
+	"Pertal #1" = -1
+	"Peruñcintevar #3" = 10
+	"Prola #0" = 0
+	"Pulakesi #0" = 0
+	"Rachamalla #0" = 0
+	"Rajasundari #0" = -1
+	"Revakanimmadi #0" = -1
+	"Rudramadevi #0" = -1
+	"Sadashiva #1" = 10
+	"Sangappai #0" = -1
+	"Sanghatissa #0" = 0
+	"Shivamara #1" = 10
+	"Singhana #1" = 10
+	"Thimma #1" = 10
+	"Thirumalambike #1" = -1
+	"Vakulamahadevi #0" = -1
+	"Vendakadri #0" = 0
+	"Venkatadri #0" = 0
+	"Vikramaditya #0" = 0
+	"Viranarasimha #1" = 10
+	"Vishnugopa #1" = 10
+	"Zilfê #0" = -1
+}
+leader_names = {
+	"Ambadeva"
+	"Gannaiah"
+	"Gona"
+	"Pandava"
+	"Racha"
+	"Rai"
+	"Reddy"
+	"Roy"
+	"Suryavamsa"
+	"Velama"
+}
+ship_names = {
+	"Anantavarman"
+	"Bishnupriya"
+	"Devarakonda"
+	"Godavari"
+	"Hidimba"
+	"Kataya"
+	"Konark"
+	"Krishnapriya"
+	"Kumar"
+	"Lakshmi"
+	"Masulipatnam"
+	"Naga"
+	"Paradeep"
+	"Parvati"
+	"Rachakonda"
+	"Radha"
+	"Rahu"
+	"Rajahmundry"
+	"Rakshasa"
+	"Sarasvati"
+	"Satapada"
+	"Vizianagaram"
+	"Warangal"
+}

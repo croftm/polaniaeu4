@@ -1,0 +1,101 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 148 122 151 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Alachis #1" = 10
+	"Albero #1" = 10
+	"Aleid #1" = -1
+	"Amefrith #0" = 0
+	"Antonio #1" = 10
+	"Ardicino #0" = 0
+	"Berta #0" = -1
+	"Biltrude #0" = -1
+	"Bonconte #1" = 10
+	"Cynehelm #0" = 0
+	"Daevit #1" = 10
+	"Girolamo #0" = 0
+	"Giselberto #1" = 10
+	"Gotefredo #1" = 10
+	"Guy #1" = 10
+	"Hippolytos #0" = 0
+	"Kristof #1" = 10
+	"Lambert #2" = 10
+	"Macek #0" = 0
+	"Makarios #0" = 0
+	"Maria #0" = -1
+	"Opizzino #1" = 10
+	"Ostisio #1" = 10
+	"Pagano #1" = 10
+	"Raimondo #1" = 10
+	"Rodulf #1" = 10
+	"Sa'ud #0" = 0
+	"Sigifredo #1" = 10
+	"Taddeo #0" = 0
+	"Tassilo #1" = 10
+	"Teodoro #1" = 10
+	"Thimo #1" = 10
+	"Unruoch #1" = 10
+	"Violante #0" = -1
+}
+leader_names = {
+	"Aigner"
+	"Amanshauser"
+	"Burgstaller"
+	"Bäck"
+	"Doppler"
+	"Feiersinger"
+	"Gruber"
+	"Macheiner"
+	"Maislinger"
+	"Mayer"
+	"Mohr"
+	"Rendl"
+	"Rohracher"
+	"Scharl"
+	"Schönswetter"
+	"Trakl"
+	"Waggerl"
+	"Witzigmann"
+}
+ship_names = {
+	"Apollo"
+	"Athena"
+	"Bozen"
+	"Brixen"
+	"Bruneck"
+	"Eberhard"
+	"Innsbruck"
+	"Meran"
+	"Poseidon"
+	"Trent"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Fürstbischofliche Garde"
+}

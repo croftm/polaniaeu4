@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = sub_saharan
+religion = shiite
+primary_culture = mali
+capital = 2244
+religious_school = zaidi_school
+add_accepted_culture = dynamic-dyola-soninke-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Ismail"
+		dynasty = "Cisse"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1403.6.16
+		religion = shiite
+		culture = mali
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Fatoumata"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 2
+		mil = 4
+		country_of_origin = Z2Q
+		birth_date = 1394.1.4
+		death_date = 1454.1.4
+		female = yes
+		religion = shiite
+		culture = dynamic-dyola-soninke-culture-num1
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = fertile_personality
+	heir = {
+		name = "Alayaman"
+		monarch_name = "Alayaman"
+		dynasty = "Cisse"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1429.2.12
+		death_date = 1494.2.12
+		claim = 89
+		religion = shiite
+		culture = dynamic-mali-soninke-culture-num1
+	}
+	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11= {
+	add_prestige = 82
+	add_treasury = 31
+}

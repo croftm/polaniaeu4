@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = dynamic-assamese-nepali-culture-num1
+capital = 4481
+1444.11.11= {
+	monarch = {
+		name = "Choeje"
+		dynasty = "Choeje"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1397.6.27
+		religion = hinduism
+		culture = dynamic-assamese-nepali-culture-num1
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	queen = {
+		name = "Nayanadevi"
+		dynasty = "Nyingchi"
+		adm = 4
+		dip = 4
+		mil = 5
+		country_of_origin = BHU
+		birth_date = 1409.8.21
+		death_date = 1469.8.21
+		female = yes
+		religion = hinduism
+		culture = dynamic-assamese-nepali-culture-num1
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = free_thinker_personality
+	heir = {
+		name = "Choeje"
+		monarch_name = "Choeje"
+		dynasty = "Choeje"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1427.8.15
+		death_date = 1492.8.15
+		claim = 89
+		religion = hinduism
+		culture = dynamic-assamese-nepali-culture-num1
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = well_connected_personality
+}
+1444.11.11= {
+	add_prestige = 96
+	add_treasury = 51
+}

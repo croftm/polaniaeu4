@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = shiite
+primary_culture = moroccan
+capital = 366
+religious_school = zaidi_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 76
+	add_treasury = 52
+}

@@ -1,0 +1,64 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 235 35 35 }
+revolutionary_colors = { 10 0 8 }
+historical_idea_groups = {
+	horde_ideas
+	economic_ideas
+	quantity_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+	quality_ideas
+	trade_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Adauwa #0" = -1
+	"Bahman #0" = 0
+	"Baytas #1" = 10
+	"Behruz #0" = 0
+	"Gulnessa #0" = -1
+	"Hamasa #0" = 0
+	"Hashmaddin #0" = 0
+	"Ipek #0" = -1
+	"Ismail #1" = 10
+	"Ituk #1" = 10
+	"Jalil #1" = 10
+	"Kaiqobad #1" = 10
+	"Kamshad #0" = 0
+	"Khashyar #0" = 0
+	"Kohyar #1" = 10
+	"Kolo #1" = 10
+	"Kurush #2" = 10
+	"Mehmed #1" = 10
+	"Mehrdad #1" = 10
+	"Mehrzad #0" = 0
+	"Meliksah #1" = 10
+	"Mustafa #1" = 10
+	"Oluyemi #0" = 0
+	"Omaid #1" = 10
+	"Paywand #0" = -1
+	"Parsa #0" = 0
+	"Rashida #0" = -1
+	"Shabaz #1" = 10
+	"Shahzadah #0" = -1
+	"Simin #0" = -1
+	"Togli #1" = 10
+	"Toktam #0" = 0
+	"Umur #0" = 0
+	"Varshasb #0" = 0
+	"Vergava #0" = -1
+}

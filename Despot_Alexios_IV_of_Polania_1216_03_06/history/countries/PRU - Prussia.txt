@@ -1,0 +1,56 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_111
+primary_culture = old_pommeranian
+capital = 42
+mercantilism = 25
+1444.11.11= {
+	monarch = {
+		name = "Leontia"
+		dynasty = "Argyropoulos"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1391.2.10
+		female = yes
+		religion = converted_dynamic_faith_111
+		culture = old_pommeranian
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = just_personality
+	queen = {
+		name = "Radomír"
+		dynasty = "Zápolya"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = PRU
+		birth_date = 1397.10.16
+		death_date = 1457.10.16
+		religion = converted_dynamic_faith_111
+		culture = dynamic-hungarian-slovak-culture-num1
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Kamil"
+		monarch_name = "Kamil"
+		dynasty = "Argyropoulos"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1420.1.12
+		death_date = 1485.1.12
+		claim = 89
+		religion = converted_dynamic_faith_111
+		culture = dynamic-hungarian-russian_culture-culture-num1
+	}
+	add_heir_personality = righteous_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 81
+	add_treasury = 53
+}

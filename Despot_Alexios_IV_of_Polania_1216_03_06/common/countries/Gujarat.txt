@@ -1,0 +1,128 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 231 224 107 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abdulraham #0" = 0
+	"Adara #0" = 0
+	"Baghpal #1" = 10
+	"Bakhita #1" = -1
+	"Bhaadar #1" = 10
+	"Bhoja #2" = 10
+	"Bhumpal #3" = 10
+	"Bukar #0" = 0
+	"Dharapatta #1" = 10
+	"Dharasena #3" = 10
+	"Dhruvasena #3" = 10
+	"Dronasimha #1" = 10
+	"Govinda #0" = 0
+	"Govindachandra #2" = 10
+	"Govindaraja #2" = 10
+	"Guhasena #1" = 10
+	"Harsa #0" = 0
+	"Hummay #0" = 0
+	"Jamadevi #0" = -1
+	"Jatanpala #1" = 10
+	"Kanchuka #0" = -1
+	"Kharagraha #2" = 10
+	"Kumar-Singh #0" = 0
+	"Kungpa #0" = 0
+	"Kunthea #0" = -1
+	"Lokpala #0" = 0
+	"Mufioma #0" = 0
+	"Mulraja #0" = 0
+	"Pritampala #1" = 10
+	"Said #0" = 0
+	"Siladitya #4" = 10
+	"Siyaka #0" = 0
+	"Trailokyavarman #0" = 0
+	"Tyushten #0" = 0
+	"Vasudeva #0" = 0
+	"Vendakadri #0" = 0
+}
+leader_names = {
+	"Bahadur"
+	"Begada"
+	"Bhilala"
+	"Changezi"
+	"Chattari"
+	"Chudasama"
+	"Desai"
+	"Farooqi"
+	"Gauri"
+	"Ghuri"
+	"Gilani"
+	"Haji"
+	"Jurjani"
+	"Kanjar"
+	"Khan"
+	"Khorasani"
+	"Lakhaji"
+	"Latif"
+	"Malik"
+	"Mori"
+	"Munshi"
+	"Muzzafar"
+	"Naru"
+	"Pahore"
+	"Paramara"
+	"Parikh"
+	"Patel"
+	"Patidar"
+	"Ravalji"
+	"Shah"
+	"Solanki"
+	"Sultan"
+	"Tomara"
+	"Turani"
+	"Uzbek"
+}
+ship_names = {
+	"Ambika"
+	"Auranga"
+	"Bhadar"
+	"Damanganga"
+	"Devki"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khari"
+	"Lal Jahazi"
+	"Luni"
+	"Mahi"
+	"Mithi"
+	"Narmada"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Purna"
+	"Sabarmati"
+	"Sagar"
+	"Saraiya"
+	"Saraswati"
+	"Shetrunji"
+	"Tapi"
+	"Yasmin"
+}

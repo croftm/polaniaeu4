@@ -1,0 +1,88 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 255 55 185 }
+revolutionary_colors = { 4 8 10 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Armah #1" = 10
+	"Brak #0" = 0
+	"Doye #0" = -1
+	"Fabule #1" = 10
+	"Flomo #1" = 10
+	"Garmenh #0" = -1
+	"Garteh #1" = 10
+	"Gboto #0" = 0
+	"Gorpue #0" = -1
+	"Jahn #0" = 0
+	"Kaijaah #1" = 10
+	"Kollie #0" = 0
+	"Kparnkpai #0" = 0
+	"Lami #0" = 0
+	"Luogon #0" = 0
+	"Manhtee #1" = 10
+	"Mehnmah #1" = -1
+	"Nenwon #0" = 0
+	"Norn #1" = -1
+	"Olufunke #0" = -1
+	"Pese #2" = 10
+	"Potyava #0" = -1
+	"Saa #0" = 0
+	"Sando #0" = 0
+	"Sarh #1" = 10
+	"Siaka #1" = 10
+	"Sue #0" = -1
+	"Wangpo #0" = 0
+	"Weyatta #1" = -1
+	"Yah #0" = -1
+	"Yarkpawolo #0" = 0
+	"Yei #0" = -1
+	"Zokaya #1" = 10
+}
+leader_names = {
+	"Amadou"
+	"Deo"
+	"Diarra"
+	"Keita"
+	"Konare"
+	"Modibo"
+	"Moussa"
+	"Toumani"
+	"Toure"
+	"Traoré"
+}
+ship_names = {
+	"Gao"
+	"Jenne"
+	"Kankan Musa"
+	"Khalifa Keita"
+	"Kiringa"
+	"Koumbi Saleh"
+	"Kouroukan Fouga"
+	"Quati Keita"
+	"Sakura"
+	"Sundiata Keita"
+	"Timbuktu"
+	"Wali Keita"
+}

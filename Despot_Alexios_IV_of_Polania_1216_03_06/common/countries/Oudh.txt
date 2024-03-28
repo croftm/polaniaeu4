@@ -1,0 +1,96 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 122 179 97 }
+revolutionary_colors = { 8 5 0 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ama #1" = 10
+	"Bachraj #0" = 0
+	"Bhoja #2" = 10
+	"Dattadevi #0" = -1
+	"Dehanagadevi #0" = -1
+	"Dundaka #1" = 10
+	"Gyani #1" = 10
+	"Indrapal #0" = 0
+	"Indrayudha #1" = 10
+	"Jatanpala #1" = 10
+	"Jayavarman #0" = 0
+	"Kanchuka #0" = -1
+	"Keeratdeva #2" = 10
+	"Kunwar #0" = 0
+	"Mahendrapala #1" = 10
+	"Mandandeva #1" = 10
+	"Nagabhata #1" = 10
+	"Nannuka #1" = 10
+	"Pritampal #0" = 0
+	"Ramabhadra #1" = 10
+	"Rampala #0" = 0
+	"Vachhal #1" = 10
+	"Vajrayudha #1" = 10
+	"Yasovarman #1" = 10
+}
+leader_names = {
+	"Afridi"
+	"Awadhi"
+	"Bahadur"
+	"Bangash"
+	"Chand"
+	"Ghori"
+	"Hindustani"
+	"Karrani"
+	"Khan"
+	"Khilji"
+	"Lodi"
+	"Pundir"
+	"Sahgal"
+	"Sarwar"
+	"Satsangi"
+	"Sharqi"
+	"Siddiqui"
+	"Uzbek"
+	"Yousafzai"
+	"ud Daula"
+}
+ship_names = {
+	"Alia"
+	"Betwa"
+	"Fatimah"
+	"Gandak"
+	"Ghagra"
+	"Gomti"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Satlaj"
+	"Yamuna"
+	"Yasmine"
+}

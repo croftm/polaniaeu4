@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 166 72 57 }
+revolutionary_colors = { 13 0 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Aleksii #0" = 0
+	"Bosporios #1" = 10
+	"Bran #1" = 10
+	"Dermid #0" = 0
+	"Gavrilo #1" = 10
+	"Ioustina #1" = -1
+	"Kasjan #1" = 10
+	"Konstantin #1" = 10
+	"Ljubomir #1" = 10
+	"Ljutomisl #0" = 0
+	"Ludvík #0" = 0
+	"Marcin #1" = 10
+	"Milobrat #1" = 10
+	"Momchil #1" = 10
+	"Mszczuj #1" = 10
+	"Mudary #1" = -1
+	"Mutimir #2" = 10
+	"Pelagios #0" = 0
+	"Prosigoj #1" = 10
+	"Radivoj #1" = 10
+	"Radoslav #1" = 10
+	"Serapion #0" = 0
+	"Sermon #0" = 0
+	"Stanislaw #1" = 10
+	"Theodotos #1" = 10
+	"Uros #0" = 0
+	"Vlastimir #1" = 10
+	"Vojislav #1" = 10
+}
+leader_names = {
+	"Bojovic"
+	"Drascovic"
+	"Gingic"
+	"Hracovec"
+	"Jovanovic"
+	"Lazarevic"
+	"Marcovic"
+	"Obilic"
+	"Obrenovic"
+	"Pertrovic"
+	"Postek"
+	"Putnik"
+}
+ship_names = {
+	"Bosnia"
+	"Duklja"
+	"Milutin"
+	"Pagania"
+	"Raska"
+	"Stefan Dusan"
+	"Stefan Nemanja"
+	"Stefan Prvovencani"
+	"Travunia"
+	"Zahumlje"
+}

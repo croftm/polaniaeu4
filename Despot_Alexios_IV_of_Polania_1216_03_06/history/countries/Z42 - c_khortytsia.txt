@@ -1,0 +1,38 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_111
+primary_culture = dynamic-polish-culture-num1
+capital = 2412
+fixed_capital = 2412
+add_accepted_culture = dynamic-russian_culture-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1.1.1
+		regent = yes
+		religion = converted_dynamic_faith_111
+		culture = dynamic-polish-culture-num1
+	}
+	heir = {
+		name = "Mateusz"
+		dynasty = "Árpád-0e0ina"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1430.2.17
+		death_date = 1495.2.17
+		claim = 89
+		religion = converted_dynamic_faith_111
+		culture = dynamic-polish-culture-num1
+	}
+}
+1444.11.11= {
+	add_prestige = 66
+	add_treasury = 50
+}

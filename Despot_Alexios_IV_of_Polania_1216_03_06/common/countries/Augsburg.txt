@@ -1,0 +1,109 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 20 188 118 }
+revolutionary_colors = { 5 9 10 }
+historical_idea_groups = {
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adam #2" = 10
+	"Alberich #0" = 0
+	"Ehrenfried #0" = 0
+	"Guiges #0" = 0
+	"Guntbald #1" = 10
+	"Hendrik #1" = 10
+	"Izsák #1" = 10
+	"Johann #1" = 10
+	"Leon #0" = 0
+	"Lutbert #1" = 10
+	"Léon #0" = 0
+	"Marko #0" = 0
+	"Matthias #0" = 0
+	"Milivoj #0" = 0
+	"Szilveszter #0" = 0
+	"Viola #1" = -1
+	"Willem #0" = 0
+	"Wiltrud #0" = -1
+}
+leader_names = {
+	"Adler"
+	"Alers"
+	"Bake"
+	"Beckröge"
+	"Bergius"
+	"Berninghausen"
+	"Boelken"
+	"Bollheim"
+	"Brill"
+	"Delius"
+	"Drewers"
+	"Engels"
+	"Ficke"
+	"Foukhard"
+	"Geffken"
+	"Gildemeister"
+	"Grovermann"
+	"Happach"
+	"Heimbruch"
+	"Hinke"
+	"Kindt"
+	"Krefting"
+	"Köhne"
+	"Laporte"
+	"Löning"
+	"Meyer"
+	"Oelrichs"
+	"Ordemann"
+	"Reiners"
+	"Rohde"
+	"Sanders"
+	"Schulken"
+	"Steinwachs"
+	"Stucken"
+	"Truernitt"
+	"von Bobert"
+	"von Cappeln"
+	"von Holten"
+	"von Horn"
+	"von Meinertzhagen"
+}
+ship_names = {
+	"Anticipation Of A New Lover's Arrival"
+	"Dressed Up To Party"
+	"Furious Purpose"
+	"Geelbeen"
+	"Honorius"
+	"Jever"
+	"Johann Dove"
+	"Roland"
+	"Tagenbare"
+	"The Confessor"
+	"Weserwelle"
+	"Willehad"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

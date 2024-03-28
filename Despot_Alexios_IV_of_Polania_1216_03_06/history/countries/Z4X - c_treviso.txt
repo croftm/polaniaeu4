@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_111
+primary_culture = venetian
+capital = 1774
+fixed_capital = 1774
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Oberto"
+		dynasty = "Steno"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1387.10.2
+		religion = converted_dynamic_faith_111
+		culture = venetian
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Berta"
+		dynasty = "di Caorle"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Z4X
+		birth_date = 1384.6.22
+		death_date = 1444.6.22
+		female = yes
+		religion = converted_dynamic_faith_111
+		culture = italian
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Guido"
+		monarch_name = "Guido"
+		dynasty = "Steno"
+		adm = 3
+		dip = 6
+		mil = 4
+		birth_date = 1409.6.23
+		death_date = 1474.6.23
+		claim = 89
+		religion = catholic
+		culture = italian
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 53
+}

@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 157 200 42 }
+revolutionary_colors = { 10 4 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Bhaadar #1" = 10
+	"Bhoja #2" = 10
+	"Bhumpal #0" = 0
+	"Bhumpala #1" = 10
+	"Brahmdevpal #0" = 0
+	"Dattadevi #0" = -1
+	"Digakassapa #0" = 0
+	"Dorjne #0" = -1
+	"Gobburi #0" = 0
+	"Govindaraja #2" = 10
+	"Hemavati #0" = -1
+	"Ittac #0" = 0
+	"Jagdev #0" = 0
+	"Kalayandevi #0" = -1
+	"Kalkurna #0" = 0
+	"Kanchuka #0" = -1
+	"Kumaradevi #0" = -1
+	"Kuntal #0" = -1
+	"Nattadevi #0" = -1
+	"Piya #0" = -1
+	"Popatraj #1" = 10
+	"Rampal #1" = 10
+	"Rangraja #0" = 0
+	"Ratnapala #1" = 10
+	"Sena #0" = 0
+	"Shrimitradevi #0" = -1
+	"Srichandra #0" = 0
+	"Sultanpal #0" = 0
+	"Surajpal #0" = 0
+	"Vijayasakti #1" = 10
+	"Vindhyavarman #2" = 10
+}
+leader_names = {
+	"Ali"
+	"Azad"
+	"Bhutto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lohia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Ra'ana"
+	"Sharif"
+	"Sharma"
+	"Sinan"
+	"Singh"
+	"Viqar-ul-Mulk"
+}
+ship_names = {
+	"Alia"
+	"Chambal"
+	"Fatimah"
+	"Ganges"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Spiti"
+	"Yamuna"
+	"Yasmine"
+}

@@ -1,0 +1,84 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 102 128 52 }
+revolutionary_colors = { 1 5 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	durrani_dragoon
+	durrani_rifled_musketeer
+	durrani_swivel
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Anantadevi #0" = -1
+	"Andali #0" = -1
+	"Aryamgula #0" = 0
+	"Chandaladevi #0" = -1
+	"Chimnaji #1" = 10
+	"Ereyanga #0" = 0
+	"Indra #0" = 0
+	"Jayajirao #0" = 0
+	"Jayasimha #0" = 0
+	"Jhotisena #1" = 10
+	"Kittivarma #1" = 10
+	"Kutalmis #0" = 0
+	"Laraib #0" = 0
+	"Likmikya #0" = 0
+	"Mahadji #1" = 10
+	"Malharrao #1" = 10
+	"Maya #0" = -1
+	"Nagavarma #0" = 0
+	"Pullashakti #0" = 0
+	"Raghunathrao #0" = 0
+	"Sambhaji #1" = 10
+	"Silameghavanna #0" = 0
+	"Vahana #0" = 0
+	"Viranarasimha #1" = 10
+	"Vishnugopa #0" = 0
+	"Zangpo #0" = 0
+}
+leader_names = {
+	"Ahmad"
+	"Akhund"
+	"Amin"
+	"Ghazi"
+	"Hotaki"
+	"Karmal"
+	"Najibullah"
+	"Qadir"
+	"Rahman"
+	"Taraki"
+}
+ship_names = {
+	"Arghandab"
+	"Balkh"
+	"Dasht"
+	"Farah"
+	"Harirud"
+	"Harut"
+	"Hingol"
+	"Kabol"
+	"Kech"
+	"Khash"
+	"Kowkcheh"
+	"Murghab"
+	"Zhob"
+}

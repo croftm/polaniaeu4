@@ -1,0 +1,132 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 50 37 125 }
+revolutionary_colors = { 13 16 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Armaiti #0" = -1
+	"Baga #0" = 0
+	"Bradaysaa #0" = 0
+	"Brika #0" = 0
+	"Bönkyi #0" = 0
+	"Chungsang Ormang #1" = 10
+	"Chöejor #4" = 10
+	"Chökyi #0" = 0
+	"Dokya #0" = 0
+	"Duddul #0" = 0
+	"Gyalsig Shuteng #1" = 10
+	"Gyaltore Taknye #1" = 10
+	"Gyatso #1" = -1
+	"Hoysaladevi #0" = -1
+	"Hvam #0" = 0
+	"Hvarda #1" = 10
+	"Jangchup #0" = 0
+	"Jetsunmo #1" = -1
+	"Kharusa #0" = 0
+	"Khonma #0" = -1
+	"Kirtti #0" = 0
+	"Kishan #0" = -1
+	"Kushen #0" = 0
+	"Kyesang Dongtsab #1" = 10
+	"Lontramo #1" = 10
+	"Lotsen #1" = 10
+	"Löpo #1" = 10
+	"Mangje Lhalo #1" = 10
+	"Mangpoje Lhasung #1" = 10
+	"Mangpoje Shangnang #1" = 10
+	"Mangsham Sumnang #1" = 10
+	"Mangsham Taktsab #1" = 10
+	"Manohara #0" = 0
+	"Namdé Ösung #1" = 10
+	"Nanda #0" = -1
+	"Nangshar Sutsen #1" = 10
+	"Parnika #0" = -1
+	"Pasang #0" = -1
+	"Pelkhortsen #1" = 10
+	"Praniyata #0" = -1
+	"Pungse Sutse #1" = 10
+	"Sangjo #0" = 0
+	"Shang Gyaltsen Lhanang #1" = 10
+	"Shenden #1" = -1
+	"Shura #0" = 0
+	"Sudarrjam #0" = 0
+	"Sumantu #0" = 0
+	"Ta-Lat #0" = -1
+	"Tadra Khonglo #1" = 10
+	"Takdra #0" = 0
+	"Takdra Lukhong #1" = 10
+	"Taknye #0" = 0
+	"Tayasham #0" = 0
+	"Thekchen #0" = 0
+	"Tisyarakshita #1" = -1
+	"Tongtsen Yulsung #3" = 10
+	"Trashitsé #0" = 0
+	"Tridé #0" = 0
+	"Trinring Tsendro #1" = 10
+	"Trisang Yalag #1" = 10
+	"Trisig Shangnyen #2" = 10
+	"Trisu Ramsha #1" = 10
+	"Trisumje Taknang #1" = 10
+	"Tsangmo #0" = -1
+	"Tsenye Dompu #1" = 10
+	"Tsepo #0" = 0
+	"Tulasi #0" = 0
+	"Vardhana #0" = 0
+	"Vijnayavati #0" = -1
+	"Yongten #0" = 0
+	"Zambasta #1" = 10
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

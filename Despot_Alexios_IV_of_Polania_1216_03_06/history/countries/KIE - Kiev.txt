@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = eastern
+religion = catholic
+primary_culture = mordvin
+capital = 280
+add_accepted_culture = dynamic-russian_culture-culture-num1
+1444.11.11= {
+	monarch = {
+		name = "Artyo"
+		dynasty = "Mordvanid-Seversky"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1427.1.23
+		religion = catholic
+		culture = mordvin
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Onton"
+		monarch_name = "Onton"
+		dynasty = "Mordvanid-Seversky"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1435.11.9
+		death_date = 1500.11.9
+		claim = 89
+		religion = catholic
+		culture = mordvin
+	}
+	add_heir_personality = loose_lips_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 59
+}

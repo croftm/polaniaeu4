@@ -1,0 +1,147 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 89 141 140 }
+revolutionary_colors = { 6 9 6 }
+historical_idea_groups = {
+	defensive_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+	humanist_ideas
+	offensive_ideas
+	aristocracy_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abu-Bakr #0" = 0
+	"Aiyaparaja #0" = 0
+	"Amma #0" = 0
+	"Anandibai #0" = -1
+	"Anavema #0" = 0
+	"Anitalli #0" = -1
+	"Ariyan #0" = -1
+	"Ayasobhita #0" = 0
+	"Ayyapayya #0" = 0
+	"Ballaladeva #0" = 0
+	"Bashar #0" = 0
+	"Bhanu #0" = 0
+	"Bhavashankari #0" = -1
+	"Bijjabbe #0" = -1
+	"Biswanatha #0" = 0
+	"Borna #0" = 0
+	"Chamekamba #0" = -1
+	"Chandaladevi #0" = -1
+	"Chandena #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Chellava #0" = -1
+	"Chinnambike #0" = -1
+	"Damutara #0" = -1
+	"Dathopatissa #0" = 0
+	"Dattaji #0" = 0
+	"Deepabai #0" = -1
+	"Dragos #0" = 0
+	"Durvinita #0" = 0
+	"Gajasimha #0" = 0
+	"Gunvantibai #0" = -1
+	"Harasimhadeva #0" = 0
+	"Hariharamba #0" = -1
+	"Hemantasen #0" = 0
+	"Indrabhattaraka #0" = 0
+	"Kaapayanayaka #0" = 0
+	"Karnadevi #0" = -1
+	"Khaterah #0" = -1
+	"Kundaladevi #0" = -1
+	"Lakshmi #0" = -1
+	"Mahadevi #0" = -1
+	"Nachana #0" = 0
+	"Nagipoti #0" = -1
+	"Niravadyadhavala #0" = 0
+	"Pammava #0" = -1
+	"Pertal #0" = -1
+	"Polavira #0" = 0
+	"Prabodh #0" = 0
+	"Rajanayaka #0" = 0
+	"Râcatêviyâr #0" = -1
+	"Saktivarman #0" = 0
+	"Sattiyavvai #0" = -1
+	"Shahuji #0" = 0
+	"Siyaka #0" = 0
+	"Soyarabai #0" = -1
+	"Srimahadevi #0" = -1
+	"Suri #0" = -1
+	"Tejavarsha #0" = 0
+	"Vicayâraka #0" = 0
+	"Vijamba #0" = -1
+	"Vijayaditya #0" = 0
+	"Vijnayavati #0" = -1
+	"Vimaladitya #0" = 0
+	"Wah #0" = -1
+	"Yajnavati #0" = -1
+	"Yuddhamalla #0" = 0
+	"Šahbaz #0" = 0
+}
+leader_names = {
+	"Agrawal"
+	"Ambar"
+	"Bhaskar"
+	"Chirag"
+	"Dawar"
+	"Hussaini"
+	"Jitesh"
+	"Kabir"
+	"Kadak"
+	"Khan"
+	"Khot"
+	"Krishna"
+	"Kumur"
+	"Latif"
+	"Mahaldar"
+	"Naidu"
+	"Nayudu"
+	"Poosapati"
+	"Qadir"
+	"Qummi"
+	"Rao"
+	"Raya"
+	"Safsikhan"
+	"Vasireddy"
+	"Velama"
+	"Zamindari"
+	"ul Umra"
+}
+ship_names = {
+	"Alia"
+	"Aurangabad"
+	"Devki"
+	"Fatimah"
+	"Godvari"
+	"Gulbargah"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Salima"
+	"Shameena"
+	"Suhalia"
+	"Yasmine"
+}

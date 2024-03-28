@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = western
+religion = catholic
+primary_culture = scottish
+capital = 4361
+1444.11.11= {
+	monarch = {
+		name = "Conall"
+		dynasty = "Sigurdr-Edinburgh"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1425.6.6
+		religion = catholic
+		culture = scottish
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = righteous_personality
+	heir = {
+		name = "Taig"
+		monarch_name = "Taig"
+		dynasty = "Sigurdr-Edinburgh"
+		adm = 6
+		dip = 6
+		mil = 4
+		birth_date = 1426.12.28
+		death_date = 1491.12.28
+		claim = 89
+		religion = catholic
+		culture = scottish
+	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 0
+}
